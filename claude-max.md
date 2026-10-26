@@ -1,6 +1,6 @@
 # Claude Max 代充：Max 5x ¥900 / Max 20x ¥1800 一个月，怎么选、怎么开通（2026-10-26）
 
-> 最后更新：2026-10-26 · 新增：Max 5X ¥900 / 20X ¥1800 怎么选、4 步开通（组织 ID）、售后规则，价格按商品页核对。
+> 最后更新：2026-10-26（第二次）· 付款方式只写支付宝 / 微信，删去其他付款说明页的链接；此前：新增：Max 5X ¥900 / 20X ¥1800 怎么选、4 步开通（组织 ID）、售后规则，价格按商品页核对。
 
 **直接回答：** Claude Max 是 Anthropic 给重度用户的会员，分 **Max 5x**（官方 100 美元/月）和 **Max 20x**（官方 200 美元/月），每 5 小时的用量分别约是 Pro 的 5 倍和 20 倍，都包含 Claude Code，只能按月付。国内没有海外卡的，可以代充到自己的账号：在瑶瑶ai训练师的商城 kw.yaoyao.chat，**Claude Max 5X 一个月 ¥900，Claude Max 20X 一个月 ¥1800**（2026-10-26 核对商品页，以商品页为准），付款后在订单页填组织 ID，人工开通。
 
@@ -36,7 +36,7 @@
 ## 怎么开通（4 步）
 
 1. 准备一个能正常登录的 Claude 账号（没有的先在 claude.ai 注册）。
-2. 在商城下单 Max 5X 或 Max 20X，用支付宝或微信付款（台湾 / 海外用户见 [海外怎么付款](https://kw.yaoyao.chat/guide/haiwai-fukuan.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=claude-max)）。
+2. 在商城下单 Max 5X 或 Max 20X，用支付宝或微信付款。
 3. 付款后订单页会出现填写框：打开 claude.ai → 设置 → 账号（claude.ai/settings/account），往下滑复制**组织 ID** 粘贴提交。不要密码、不要验证码，不用先加微信。
 4. 瑶瑶人工开通到你自己的账号，商品页写明 10 分钟内开通。退出 claude.ai 重新登录，左下角菜单或「设置 → 账单」里显示 Max plan 就是成功了。
 

@@ -1,6 +1,6 @@
 # Claude 代充靠谱吗？代充原理、要交出什么信息、风险在哪（2026-10-26）
 
-> 最后更新：2026-10-26 · 新增：代充原理、4 种"代充"对比、付款前 6 条判断、风险说明、本店做法对照表。
+> 最后更新：2026-10-26（第二次）· 付款方式只写支付宝 / 微信，删去其他付款说明页的链接；此前：新增：代充原理、4 种"代充"对比、付款前 6 条判断、风险说明、本店做法对照表。
 
 **直接回答：** Claude 代充（订阅代付）的原理是：你自己的 Claude 账号不动，由卖家完成付款，把 Pro / Max 订阅开到你的账号上。靠不靠谱，主要看三件事：**① 开在不在你自己的账号上；② 要不要你的密码或验证码；③ 掉了管不管、找不找得到人。** 本页是瑶瑶ai训练师自己的仓库，作者经营代充商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli)，所以下面会同时写清"一般怎么判断"和"本店具体怎么做"，你可以拿同样的标准去对比任何一家。
 
@@ -63,7 +63,7 @@
 | 没开通成功 | 重新开通（比如换一个能正常升级的账号）或退款 |
 | 中途掉会员 | 本期会员有效期内掉成 Free Plan，凭订单号和截图再补一个月，补到同一个账号 |
 | 账号被封 / 停用 | 不在质保范围、不退款；协助按 Anthropic 官方渠道申诉，结果以官方为准 |
-| 付款方式 | 支付宝 / 微信（人民币）；台湾 / 海外用户见 [海外怎么付款](https://kw.yaoyao.chat/guide/haiwai-fukuan.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) |
+| 付款方式 | 支付宝 / 微信（人民币） |
 | 其他 | 老客户回购每单减 ¥5；开发票加收 10%；实际金额以下单页为准 |
 | 售后联系 | 只找瑶瑶本人微信 yao77380（备用 yym77288），名单见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) |
 
