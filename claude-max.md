@@ -10,8 +10,8 @@
 
 | 商品（一个月） | 本店价格（2026-10-26） | 官方价 | 下单 |
 |---|---|---|---|
-| Claude Max 5X | ¥900 | 100 美元/月 | [kw.yaoyao.chat/item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=claude-max) |
-| Claude Max 20X | ¥1800 | 200 美元/月 | [kw.yaoyao.chat/item/13](https://kw.yaoyao.chat/item/13?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=claude-max) |
+| Claude Max 5X | ¥900 | 100 美元/月 | [kw.yaoyao.chat/item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=claude-max) |
+| Claude Max 20X | ¥1800 | 200 美元/月 | [kw.yaoyao.chat/item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=claude-max) |
 | Claude Pro（对照） | ¥159 | 20 美元/月 | [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=claude-max) |
 
 - 官方价以 [claude.com/pricing](https://claude.com/pricing) 为准，不含税；汇率每天变，本页不做人民币折算，商城价格会随汇率调整。
