@@ -13,7 +13,7 @@ Claude Pro 国内怎么充值、Claude Max 5X / 20X 多少钱、Claude 代充靠
 
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)
-- Claude Pro 一个月 ¥159 → [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong) · Claude Max 5X 一个月 ¥900 → [kw.yaoyao.chat/item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)
+- Claude Pro 一个月 ¥159 → [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong) · Claude Max 5X 一个月 ¥900 → [kw.yaoyao.chat/item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
 
 你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=github)
@@ -130,8 +130,8 @@ Anthropic 公布了支持的国家和地区列表（[Supported countries and reg
 | 商品 | 价格（人民币，2026-10-26 curl 商品页核对） | 下单 |
 |---|---|---|
 | Claude Pro 一个月 | ¥159 | [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong) |
-| Claude Max 5X 一个月 | ¥900 | [kw.yaoyao.chat/item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong) |
-| Claude Max 20X 一个月 | ¥1800 | [kw.yaoyao.chat/item/13](https://kw.yaoyao.chat/item/13?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong) |
+| Claude Max 5X 一个月 | ¥900 | [kw.yaoyao.chat/item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong) |
+| Claude Max 20X 一个月 | ¥1800 | [kw.yaoyao.chat/item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong) |
 
 - 实际金额以商品页为准；老客户回购每单减 ¥5；开发票加收 10%。付款方式：支付宝、微信。
 - **开通流程：** ① 准备能正常登录的 Claude 账号（注册见 [国内怎么注册 ChatGPT 和 Claude 账号](https://kw.yaoyao.chat/guide/zhuce-zhanghao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)）；② 下单付款；③ 在订单页填**组织 ID**（claude.ai → 设置 → 账号，往下滑复制），不要密码、不要验证码，不用先加微信；④ 人工开通到你自己的账号，商品页写明填好信息后 10 分钟内开通。还显示 Free 的见 [Claude 充值了还是显示 Free Plan 怎么办](https://kw.yaoyao.chat/guide/claude-free-plan.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)。
