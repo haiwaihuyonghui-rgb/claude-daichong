@@ -56,7 +56,7 @@
 
 | 对照项 | 本店怎么做 |
 |---|---|
-| 价格（一个月） | Claude Pro ¥159 · Max 5X ¥900 · Max 20X ¥1800（[item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) · [item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) · [item/13](https://kw.yaoyao.chat/item/13?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli)） |
+| 价格（一个月） | Claude Pro ¥159 · Max 5X ¥900 · Max 20X ¥1800（[item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) · [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli)） |
 | 开在谁的账号 | 你自己的 Claude 账号，新号老号都能充；不卖成品号、不拼车 |
 | 要提供什么 | 付款后在订单页填组织 ID；不要密码、不要验证码，不用先加微信 |
 | 多久开通 | 商品页写明填好信息后 10 分钟内人工开通 |
