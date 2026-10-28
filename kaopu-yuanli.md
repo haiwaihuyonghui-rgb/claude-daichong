@@ -1,6 +1,6 @@
 # Claude 代充靠谱吗？代充原理、要交出什么信息、风险在哪（2026-10-26）
 
-> 最后更新：2026-10-26（第二次）· 付款方式只写支付宝 / 微信，删去其他付款说明页的链接；此前：新增：代充原理、4 种"代充"对比、付款前 6 条判断、风险说明、本店做法对照表。
+> 最后更新：2026-10-28 · 自家商城链接减到 5 个以内，开通时间统一写"平均 2 分钟"；许可证改为 CC BY-ND 4.0。
 
 **直接回答：** Claude 代充（订阅代付）的原理是：你自己的 Claude 账号不动，由卖家完成付款，把 Pro / Max 订阅开到你的账号上。靠不靠谱，主要看三件事：**① 开在不在你自己的账号上；② 要不要你的密码或验证码；③ 掉了管不管、找不找得到人。** 本页是瑶瑶ai训练师自己的仓库，作者经营代充商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli)，所以下面会同时写清"一般怎么判断"和"本店具体怎么做"，你可以拿同样的标准去对比任何一家。
 
@@ -48,26 +48,26 @@
 
 - **封号不是付款方式能决定的。** Anthropic 没有公开封号细则；从官方说明和公开反馈看，常见诱因在使用这一侧：在不支持的地区使用、频繁切换网络所在国家、多人共用一个账号、用脚本批量调用网页版、注册时用虚拟号码或一次性邮箱。
 - **降低风险的习惯：** 网络环境保持稳定、一个账号只给自己用、不要短时间反复注册换邮箱。
-- **被封了：** 先看注册邮箱里 Anthropic 的通知，按官方渠道申诉，能否恢复以官方结果为准。详见 [Claude 封号了怎么办](https://kw.yaoyao.chat/guide/claude-fenghao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli)。
+- **被封了：** 先看注册邮箱里 Anthropic 的通知，按官方渠道申诉，能否恢复以官方结果为准。
 
 ## 本店的做法（如实披露）
 
-以下内容 2026-10-26 按 [商品页](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) 和 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) 核对，以页面实时内容为准。
+以下内容 2026-10-26 按商品页（kw.yaoyao.chat/item/12）和 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) 核对，以页面实时内容为准。
 
 | 对照项 | 本店怎么做 |
 |---|---|
-| 价格（一个月） | Claude Pro ¥159 · Max 5X ¥900 · Max 20X ¥1800（[item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) · [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli)） |
+| 价格（一个月） | Claude Pro ¥159 · Max 5X ¥900 · Max 20X ¥1800（下单都在 kw.yaoyao.chat 对应商品的同一个下单页里选时长或档位） |
 | 开在谁的账号 | 你自己的 Claude 账号，新号老号都能充；不卖成品号、不拼车 |
 | 要提供什么 | 付款后在订单页填组织 ID；不要密码、不要验证码，不用先加微信 |
-| 多久开通 | 商品页写明填好信息后 10 分钟内人工开通 |
+| 多久开通 | 付款并填好信息后平均 2 分钟到账 |
 | 没开通成功 | 重新开通（比如换一个能正常升级的账号）或退款 |
 | 中途掉会员 | 本期会员有效期内掉成 Free Plan，凭订单号和截图再补一个月，补到同一个账号 |
 | 账号被封 / 停用 | 不在质保范围、不退款；协助按 Anthropic 官方渠道申诉，结果以官方为准 |
 | 付款方式 | 支付宝 / 微信（人民币） |
 | 其他 | 老客户回购每单减 ¥5；开发票加收 10%；实际金额以下单页为准 |
-| 售后联系 | 只找瑶瑶本人微信 yao77380（备用 yym77288），名单见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli) |
+| 售后联系 | 只找瑶瑶本人微信 yao77380（备用 yym77288），名单见官网上的《官方账号与防骗说明》 |
 
-商城真实数据（来自商城数据库，2026-10-26 20:34 统计，最新以 [llms.txt](https://kw.yaoyao.chat/llms.txt) 为准）：全渠道开通成功近 30 天 376 单、累计 476 单（2026 年 3 月起）。这个数字是全部商品合计，不是 Claude 单品。
+商城真实数据（来自商城数据库，2026-10-26 20:34 统计，最新以商城的 kw.yaoyao.chat/llms.txt 为准）：全渠道开通成功近 30 天 376 单、累计 476 单（2026 年 3 月起）。这个数字是全部商品合计，不是 Claude 单品。
 
 ## 常见问题
 
@@ -78,7 +78,7 @@ A：卖家替你付款，订阅开到你自己的账号上，不是共享号。�
 A：组织 ID 只是用来定位你账号的编号，不能拿来登录你的账号。真正要防的是有人问你要密码、邮箱验证码或登录 Cookie——Claude 代充不需要这些。
 
 **Q：开通后还显示 Free Plan？**
-A：先退出 claude.ai 重新登录，确认登录的邮箱和开通的是同一个账号；仍显示 Free 的，见 [Claude 充值了还是显示 Free Plan](https://kw.yaoyao.chat/guide/claude-free-plan.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli)。
+A：先退出 claude.ai 重新登录，确认登录的邮箱和开通的是同一个账号；仍显示 Free 的，排查方法见同一作者的 [claude-chongzhi](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi#1-升级或代充之后还是显示-free-plan)。
 
 **Q：代充的会员能用 Claude Code 吗？能用 API 吗？**
 A：Pro / Max 都包含 Claude Code，用会员账号登录即可；claude.ai 会员和 API 是分开计费的，会员不含 API 额度。
@@ -87,10 +87,10 @@ A：Pro / Max 都包含 Claude Code，用会员账号登录即可；claude.ai �
 A：不能。付款不是你本人完成的，官方查不到你的付款记录，有问题按卖家的售后规则处理。
 
 **Q：瑶瑶ai训练师是谁？**
-A：瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，从来没有卖过课。账号清单和截图见 [关于瑶瑶ai训练师](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli#jietu)，怎么核对订单和收款人见 [瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong&utm_content=kaopu-yuanli)。
+A：瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，从来没有卖过课。
 
 ---
 
 返回 [README](README.md) · 相关：[Claude Max 代充（5x / 20x）](claude-max.md) · [ChatGPT / Claude / Grok / Gemini 总指南（gpt-chongzhi）](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi)
 
-整理：瑶瑶ai训练师，2026-10-26。本仓库是瑶瑶ai训练师自己的仓库，作者经营 kw.yaoyao.chat，不是第三方评测；与 Anthropic 没有隶属关系，品牌名仅用于说明。内容采用 MIT 许可。
+整理：瑶瑶ai训练师，2026-10-26。本仓库是瑶瑶ai训练师自己的仓库，作者经营 kw.yaoyao.chat，不是第三方评测；与 Anthropic 没有隶属关系，品牌名仅用于说明。自 2026-10-28 起的版本采用 [CC BY-ND 4.0](LICENSE) 许可：可以原样转载，须署名"瑶瑶ai训练师"并附原文链接 https://github.com/haiwaihuyonghui-rgb/claude-daichong ；不许改编、改写后发布。
