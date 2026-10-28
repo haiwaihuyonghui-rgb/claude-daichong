@@ -76,4 +76,4 @@ A：不是。这是第三方代充，不能找 Anthropic 退款，介意的请�
 
 返回 [README](README.md) · [Claude 代充靠谱吗 / 原理](kaopu-yuanli.md) · [Claude Code 中文使用指南](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)
 
-整理：瑶瑶ai训练师，2026-10-26。瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌，从来没有卖过课；本仓库是作者自己的仓库，不是第三方评测。内容采用 MIT 许可。
+整理：瑶瑶ai训练师，2026-10-26。瑶瑶ai训练师是瑶瑶运营的个人品牌，从来没有卖过课；本仓库是作者自己的仓库，不是第三方评测。内容采用 MIT 许可。

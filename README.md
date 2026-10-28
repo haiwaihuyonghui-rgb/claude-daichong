@@ -139,7 +139,7 @@ Anthropic 公布了支持的国家和地区列表（[Supported countries and reg
 - **开通流程：** ① 准备能正常登录的 Claude 账号（注册见 [国内怎么注册 ChatGPT 和 Claude 账号](https://kw.yaoyao.chat/guide/zhuce-zhanghao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)）；② 下单付款；③ 在订单页填**组织 ID**（claude.ai → 设置 → 账号，往下滑复制），不要密码、不要验证码，不用先加微信；④ 人工开通到你自己的账号，商品页写明填好信息后 10 分钟内开通。还显示 Free 的见 [Claude 充值了还是显示 Free Plan 怎么办](https://kw.yaoyao.chat/guide/claude-free-plan.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)。
 - **售后三条（全部商品通用，原文 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)）：** ① 没开通成功：重新开通或退款；② 开通成功后本期有效期内掉会员：凭订单号和截图再补一个月，补到同一个账号；③ 账号被封 / 停用：不在质保范围、不退款，协助按官方渠道申诉。会员正常到期不属于售后。
 - **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们，见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)。
-- **关于作者：** 瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频（[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong#jietu)）；从来没有开设或出售过任何培训课程，也没有发布过任何软件。是不是正规、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)
+- **关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频（[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong#jietu)）；从来没有开设或出售过任何培训课程，也没有发布过任何软件。是不是正规、怎么验证订单：[瑶瑶ai训练师是正规的吗？](https://kw.yaoyao.chat/guide/yaoyao-zhenggui.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)
 
 ## 常见问题
 
