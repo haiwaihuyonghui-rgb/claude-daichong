@@ -14,7 +14,7 @@ Claude Pro 国内怎么充值、Claude Max 5X / 20X 多少钱、Claude 代充靠
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)（同一个下单页可选 200 / 500 美金档位 ¥1399 / ¥3499）
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)（同一个下单页可选三个月 ¥387、六个月 ¥774、十二个月 ¥1548，都是 ¥129 × 月数）
 - Claude Pro 一个月 ¥159 → [kw.yaoyao.chat/item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)（同一个下单页可选 Max 5x ¥900 / Max 20x ¥1800）
-- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
+- 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服全天 24 小时
 <!-- 快速购买:结束 -->
 
 更多教程见：[全部教程合集](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
@@ -138,7 +138,7 @@ Anthropic 公布了支持的国家和地区列表（[Supported countries and reg
 - 实际金额以商品页为准；老客户回购每单减 ¥5；开发票加收 10%。付款方式：支付宝、微信。
 - **开通流程：** ① 准备能正常登录的 Claude 账号（没有的先在 claude.ai 注册）；② 下单付款；③ 在订单页填**组织 ID**（claude.ai → 设置 → 账号，往下滑复制），不要密码、不要验证码，不用先加微信；④ 开通到你自己的账号，付款并填好信息后平均 2 分钟到账。还显示 Free 的，排查方法见同一作者的 [claude-chongzhi](https://github.com/haiwaihuyonghui-rgb/claude-chongzhi#1-升级或代充之后还是显示-free-plan)。
 - **售后三条（全部商品通用，原文 [售后与质保规则](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=claude-daichong)）：** ① 没开通成功：重新开通或退款；② 开通成功后本期有效期内掉会员：凭订单号和截图再补一个月，补到同一个账号；③ 账号被封 / 停用：不在质保范围、不退款，协助按官方渠道申诉。会员正常到期不属于售后。
-- **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间 09:00–24:00（北京时间）。主动加你、自称"客服 / 助理"的不是我们，官网上的《官方账号与防骗说明》有完整名单。
+- **客服：** 只找瑶瑶本人微信 **yao77380**（备用 yym77288），客服时间全天 24 小时。主动加你、自称"客服 / 助理"的不是我们，官网上的《官方账号与防骗说明》有完整名单。
 - **关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频；从来没有开设或出售过任何培训课程，也没有发布过任何软件。
 
 ## 常见问题
@@ -172,7 +172,7 @@ A：Pro / Max 都包含 Claude Code。国内使用见 [Claude Code 国内使用�
 | 2026-10-26 | **价格：** curl 作者商城商品页 item/12、14、13 和 llms.txt | Claude Pro ¥159、Max 5X ¥900、Max 20X ¥1800，无变动 |
 | 2026-10-26 | **官方价格：** Claude 定价页、帮助中心 What is the Max plan | Pro 月付 20 美元 / 年付折合 17 美元；Max 5x 100、20x 200 美元；新看到：Max 含每月 100～200 美元 API 额度；手机端价格可能不同 |
 | 2026-10-26 | **官方政策：** 赠送订阅文章、账单 FAQ、支持地区列表 | 赠送订阅暂停购买；App 内订阅由苹果 / 谷歌管理；大陆、香港、澳门不在列表，台湾在 |
-| 2026-10-26 | **开通流程：** 对照商城售后页和 llms.txt | 订单页只填组织 ID、人工开通；售后三条与售后页一致 |
+| 2026-10-26 | **开通流程：** 对照商城售后页和 llms.txt | 付款后在订单页只填组织 ID、在线开通，平均 2 分钟到账；售后三条与售后页一致 |
 
 ## English summary
 
